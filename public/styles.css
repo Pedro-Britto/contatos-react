@@ -1,0 +1,23 @@
+
+
+
+.titulo {
+    background-color: rgb(27, 42, 74);
+    padding: 20px;
+    color: white;
+}
+
+.formulario {
+
+    background-color: rgb(44, 61, 98);
+    color: white;
+}
+
+.lista {
+
+    background-color: rgb(139, 151, 175);
+    color: white;
+    margin: 5px 0;
+    padding: 5px;
+    text-align: center;
+}
